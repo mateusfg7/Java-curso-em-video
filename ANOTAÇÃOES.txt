@@ -1,0 +1,7 @@
+escrever na tela:
+	System.out.print("Olá, Mundo!");
+	
+escanear o teclado:
+	import java.utils.scanner //importar utilidade de scanner
+	Scanner teclado = new Scanner(System.in); //objeto para escanear o teclado
+	float n1 = teclado.nextFloat(); //area para o usuário digitar
